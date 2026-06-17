@@ -1,0 +1,6 @@
+{
+  "name": "PrivateAuth Shield",
+  "description": "A privacy-first modern authentication platform featuring passwordless passkey login, minimal audit logs, threat modeling, local-only offline voice navigation, and AI security assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
